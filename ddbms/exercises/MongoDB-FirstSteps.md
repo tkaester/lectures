@@ -79,9 +79,14 @@ Mit "limit(5)" können Sie die Ausgabe beispielsweise auf fünf Dokumente begren
 
 db.movies.find().limit(5).pretty()
 
+<h2>Referenzen und Tutorials</h2>
 Weitere Informationen zu den vorhandenen Kommandos und verschiedene Tutorials finden sie unter:
 
 https://docs.mongodb.com/manual/reference/database-references/
+
+und
+
+https://docs.mongodb.com/manual/tutorial/
 
 
 
