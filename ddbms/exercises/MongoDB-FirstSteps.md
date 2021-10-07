@@ -42,6 +42,7 @@ mongorestore -d moviedb ./movies.bson
 
 Dieses Kommando legt die Datenbank "moviedb" an sowie die Collection "movies" an. Letztere beinhaltet die einzelnen Dokumente.
 
+<h2>Die MongoDB Shell</h2>
 
 Als nächstes starten sie die MongoDB Shell:
 
