@@ -12,3 +12,4 @@
 
 <h2>Aufgabe 4</h2>
 
+Installieren Sie MongoDB, importieren Sie die Filmdaten aus der Datei „movies.bson“ und bestimmen Sie die Anzahl der Filme, die zur Kategorie „Crime“ gehören. Einen Leitfaden zum Einstieg zu MongoDB sowie den entsprechenden Datensatz finden Sie in "MongoDB-FirstSteps.md".
