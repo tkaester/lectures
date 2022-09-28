@@ -1,4 +1,4 @@
-Daten zum Training des NER Klassifikators. Das Modell kann hier heruntergeladen werden:
+Ausgabedaten vom Training des NER Klassifikators. Das entsprechende Modell kann hier heruntergeladen werden:
 
 https://drive.google.com/file/d/1VsbFE6LBMP6c3yAJLgUZd9LjU6AolDdt/view?usp=sharing
 
