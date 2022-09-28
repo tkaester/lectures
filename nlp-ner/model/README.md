@@ -1,4 +1,6 @@
-Trainiertes Modell zur NER Klassifikation:
+Daten zum Training des NER Klassifikators. Das Modell kann hier heruntergeladen werden:
+
+https://drive.google.com/file/d/1VsbFE6LBMP6c3yAJLgUZd9LjU6AolDdt/view?usp=sharing
 
 Resultate auf dem Testdatensatz:
 
